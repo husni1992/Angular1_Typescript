@@ -16,6 +16,9 @@
     },
     "angularjs/angular-mocks.d.ts": {
       "commit": "3a056e386499bf5a1293cfef8af517c777d4c9a4"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "3a056e386499bf5a1293cfef8af517c777d4c9a4"
     }
   }
 }

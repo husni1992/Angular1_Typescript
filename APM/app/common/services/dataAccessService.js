@@ -7,7 +7,6 @@ var app;
                 this.$resource = $resource;
             }
             DataAccessService.prototype.getProductResource = function () {
-                alert('called to getProductResource2');
                 return this.$resource("/api/products/:productId");
             };
             DataAccessService.$inject = ['$resource'];

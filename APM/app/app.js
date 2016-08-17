@@ -2,6 +2,7 @@ var app;
 (function (app) {
     angular.module("productManagement", [
         'common.services',
-        'productResourceMock'
+        'productResourceMock',
+        'ui.router'
     ]);
 })(app || (app = {}));
