@@ -1,0 +1,5 @@
+goto APM > index.html
+
+Run a http server
+------------------
+open cmd > type 'ws' or 'http-server' (preinstalled node modules)
