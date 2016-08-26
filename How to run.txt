@@ -4,7 +4,7 @@ npm install http-server -g
 or
 npm install ws -g
 
-goto APM > index.html
+in cmd goto APM > index.html
 
 Run a http server
 ------------------
